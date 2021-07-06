@@ -42,7 +42,7 @@ body{
                                         margin-top: 20px;
                                         box-shadow: 0px 0px 20px 0px gray;
                                         }
-                        
+                      
                     
                 
                     .startup-img{
@@ -51,7 +51,65 @@ body{
 
                     .startup-img img{
                         width: 95%;
-                        padding: 50px 30px 0px 0px;
+                        padding: 20px 30px 0px 0px;
                     }
 
+
+
+
+
+#about-me-section{
+    display: flex;
+    width: 100%;
+    background-image: url(Images/About-me-bg.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    margin-top: 95px;
+}
+
+
+            .about-me-img{
+                width: 50%;
+            }
+            .about-me-img img{
+                width: 120%;
+                padding-left: 5px;
+            }
+
+
+            .about-me-text{
+                width: 50%;
+                color: gray;
+                padding: 70px 0px 0px 80px;
+            }
+
+
+                    .about-me-text h1{
+                        font-size: 50px;
+                    }
+
+                            .about-me-text span{
+                                color: #fd4e30;
+                                font-weight: 900;
+                            }
+
+
+                                .about-me-text p{
+                                    padding-right: 90px;
+                                    font-size: 20px;
+                                }
+
+
+                                .about-me-text a{
+                                    background-image: linear-gradient(to right, tomato, red);
+                                    padding: 30px 60px;
+                                    border-radius: 40px;
+                                    font-size: 20px;
+                                    color: white;
+                                    font-weight: 600;
+                                    text-decoration: none;
+                                    display: inline-block;
+                                    margin-top: 40px;
+                                    box-shadow: 0px 0px 20px 0px gray;
+                                }
 
