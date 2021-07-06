@@ -77,6 +77,8 @@ body{
             }
 
 
+
+
             .about-me-text{
                 width: 50%;
                 color: gray;
@@ -100,16 +102,32 @@ body{
                                 }
 
 
-                                .about-me-text a{
-                                    background-image: linear-gradient(to right, tomato, red);
-                                    padding: 30px 60px;
-                                    border-radius: 40px;
-                                    font-size: 20px;
-                                    color: white;
-                                    font-weight: 600;
-                                    text-decoration: none;
-                                    display: inline-block;
-                                    margin-top: 40px;
-                                    box-shadow: 0px 0px 20px 0px gray;
-                                }
+                                        .about-me-text a{
+                                            background-image: linear-gradient(to right, tomato, red);
+                                            padding: 30px 60px;
+                                            border-radius: 40px;
+                                            font-size: 20px;
+                                            color: white;
+                                            font-weight: 600;
+                                            text-decoration: none;
+                                            display: inline-block;
+                                            margin-top: 40px;
+                                            box-shadow: 0px 0px 20px 0px gray;
+                                        }
 
+
+
+#Our-Recipie{
+    width: 100%;
+}
+
+
+            .Our-Recipie-text{
+                text-align: center;
+            }
+
+
+            .Our-Recipie-text h1{
+                font-size: 40px;
+
+            }
